@@ -1,14 +1,5 @@
-<!--
- * @Descripttion: 
- * @version: 
- * @Author: mafengyan
- * @Date: 2020-09-28 19:13:28
- * @LastEditors: mafengyan
- * @LastEditTime: 2020-09-28 19:15:24
--->
-# vue-simple-template
-# m
-
+ 
+# vue-simple-template 
 ## Project setup
 ```
 yarn install
